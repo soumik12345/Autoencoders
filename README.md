@@ -24,3 +24,11 @@ A Deep Autoencoder in which both the encoder and decoder consists of multiple fu
 A Deep Autoencoder in which both the encoder and decoder consists of multiple fully-convolutional layer each.
 
 ![Deep Convolutional Autoencoder Result](./3_Deep_Convolutional_Autoencoder/conv_autoencoder.png)
+
+### [4. Denoising Autoencoder](./4_Denoising_Autoencoder/denoising-documents-attempt-1.ipynb)
+
+A fully convolutional Autoencoder for Denoising images with noisy backgrounds.
+
+![Noisy Image](./4_Denoising_Autoencoder/noisy.png)
+
+![Denoised Image](./4_Denoising_Autoencoder/denoised.png)
